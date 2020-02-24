@@ -1,0 +1,4 @@
+"Auftragskonto";"Buchungstag";"Valutadatum";"Buchungstext";"Verwendungszweck";"Glaeubiger ID";"Mandatsreferenz";"Kundenreferenz (End-to-End)";"Sammlerreferenz";"Lastschrift Ursprungsbetrag";"Auslagenersatz Ruecklastschrift";"Beguenstigter/Zahlungspflichtiger";"Kontonummer/IBAN";"BIC (SWIFT-Code)";"Betrag";"Waehrung";"Info"
+"DE01234567890987654321";"01.09.01";"01.09.01";"ONLINE-UEBERWEISUNG";"nimm mein Geld";"";"";"";"";"";"";"Max Mustermann";"DE23098423094832754833";"BANKBLAXXXX";"-500,00";"EUR";"Umsatz gebucht"
+"DE01234567890987654321";"02.09.01";"02.09.01";"LOHN  GEHALT";"Gehalt 1/2019 ";"";"";"";"";"";"";"die firma";"DE35690889034549854852";"BANK2LOL";"2000,00";"EUR";"Umsatz gebucht"
+"DE01234567890987654321";"03.09.01";"03.09.01";"SEPA-ELV-LASTSCHRIFT";"kauf von irgendwas";"";"";"";"";"";"";"ALDI";"DE65454578676545211225";"BANK3BLAXXX";"-100,00";"EUR";"Umsatz gebucht"
